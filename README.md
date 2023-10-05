@@ -1,2 +1,2 @@
-# BootJPAProj01-CrudRepository
-BootJPAProj01-CrudRepository
+# SpringBoot-Projects
+SpringBoot-Projects
