@@ -1,0 +1,39 @@
+com:
+#Employee Details
+#Simple/Primitive Properties
+   sanju: 
+      eno: 101
+      ename: sanju
+#Array type properties
+      favColors: green, orange, red
+#       (OR)
+#      favColors: 
+#        - green
+#        - orange
+#        - red
+#Collection Properties
+#List
+      nickNames: chintu, pintu, munna
+#         (OR)
+#      nickNames: 
+#        - chintu
+#        - pintu
+#        - munna
+      phoneNumbers: 1234567890, 0987654321, 2345987601
+#         (OR)
+#     phoneNumbers: 
+#        - 1234567890
+#        - 0987654321
+#        - 2345987601
+#Map
+      idDetails:
+         aadhaarId: 678954321209
+         voterId: OD978675
+         passportNo: INODGM1234
+#HAS-A Properties
+      company:
+         id: 12345
+         name: sanju pvt. ltd.
+         addrs: MindSpace, Hitec City, Hyderabad
+         size: 50
+         

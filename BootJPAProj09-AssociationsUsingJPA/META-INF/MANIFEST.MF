@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: BootJPAProj09-AssociationsUsingJPA
+Bundle-SymbolicName: BootJPAProj09-AssociationsUsingJPA
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: BootJPAProj09.AssociationsUsingJPA
+Export-Package: com.sanju,
+ com.sanju.entities,
+ com.sanju.repo,
+ com.sanju.runner,
+ com.sanju.service
